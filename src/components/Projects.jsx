@@ -116,19 +116,16 @@ const Projects = () => {
   return (
     <div className="-mt-[6rem]">
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} `}>Case Studies</p>
-        <h2 className={`${styles.sectionHeadTextLight}`}>Projects.</h2>
+        <p className={`${styles.sectionSubText} `}>Etudes de cas</p>
+        <h2 className={`${styles.sectionHeadTextLight}`}>Projets.</h2>
       </motion.div>
 
       <div className="w-full flex">
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          These projects demonstrate my expertise with practical examples of
-          some of my work, including brief descriptions and links to code
-          repositories and live demos. They showcase my ability to tackle
-          intricate challenges, adapt to various technologies, and efficiently
-          oversee projects.
+          
+          Ces projets montrent mon expertise avec des exemples pratiques de quelques-uns de mes travaux, avec une petite description pour chacuns ainsi que des démos live. Ils montrent aussi ma capacité à prendre de nouveaux challenges, d'apprendre de nouvelles technologies.
         </motion.p>
       </div>
 

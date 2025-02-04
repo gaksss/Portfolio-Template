@@ -43,11 +43,11 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
+import celinefougerouse from './projects/celinefougerouse.png';
+import mountain from './projects/The_Mountain.png';
+import drumpad from './projects/TpDrumpad.png';
+import quizz from './projects/Quizz.png';
+import zelda from './projects/Zelda.png';
 import space from './projects/space-hub.png';
 
 export {
@@ -86,11 +86,11 @@ export {
   redux,
   tailwind,
   typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
+  celinefougerouse,
+  mountain,
+  drumpad,
+  quizz,
+  zelda,
   space,
   coverhunt,
   dcc,
