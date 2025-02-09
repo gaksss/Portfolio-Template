@@ -57,7 +57,7 @@ const Footer = () => {
             </h4>
             <div className="flex justify-center md:justify-end space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/gaksss"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-secondary hover:text-white transition-colors"
@@ -76,7 +76,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/cl%C3%A9ment-carlier/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-secondary hover:text-white transition-colors"

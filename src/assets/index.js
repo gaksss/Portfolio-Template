@@ -1,7 +1,8 @@
-import bwmap from './backgrounds/bw-map.jpeg';
+import earth from './backgrounds/earth.png';
 import nairobi from './backgrounds/nairobi.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
+import iss from './backgrounds/ISS.png';
 
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
@@ -51,7 +52,8 @@ import zelda from './projects/Zelda.png';
 import space from './projects/space-hub.png';
 
 export {
-  bwmap,
+  iss,
+  earth,
   nairobi,
   whiteabstract,
   worldmap,
@@ -97,3 +99,5 @@ export {
   kelhel,
   microverse,
 };
+
+
